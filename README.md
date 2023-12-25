@@ -4,6 +4,15 @@ I completed my PhD at the the University of Cambridge, looking at how computatio
 
 I am keen to share my knowledge and expertise with others. As a mentor to postdocs, PhD students, Masters students, and undergraduates, I take pride in helping to guide and inspire the next generation of scientists.
 
+[My website](mclarke1991.github.io) | [LinkedIn ](https://www.linkedin.com/in/matthew-alan-clarke/) | [My Projects](https://mclarke1991.github.io/#projects) | [My Papers](https://mclarke1991.github.io/#featured) | [My Talks](https://mclarke1991.github.io/#talks) | [Get in touch](https://mclarke1991.github.io/#contact) 
+
+
+
+<!--
+[My website 💻](mclarke1991.github.io) | [LinkedIn ](https://www.linkedin.com/in/matthew-alan-clarke/) | [My Projects](https://mclarke1991.github.io/#projects) | [My Papers](https://mclarke1991.github.io/#featured) | [My Talks](https://mclarke1991.github.io/#talks) | [Get in touch](https://mclarke1991.github.io/#contact) 
+-->
+
+
 <!--
 **MClarke1991/MClarke1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
