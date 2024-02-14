@@ -9,7 +9,7 @@ I am keen to share my knowledge and expertise with others. As a mentor to postdo
 <br/><br/>
 <br/><br/>
 
-| ⚡ Finished Project | 📰 Paper | 💾 Code/Data |
+| ⚡ Published Project | 📰 Paper | 💾 Code/Data |
 |--------|--------|--------|
 | Order of mutations in evolution | [Using State Space Exploration to Determine How Gene Regulatory Networks Constrain Mutation Order in Cancer Evolution](https://core.ac.uk/download/pdf/226940882.pdf) | [MutationOrder](https://www.github.com/jfisherlab/mutationorder) |
 | Combination Treatments for COVID-19 | [Executable network of SARS-CoV-2-host interaction predicts drug combination treatments](https://www.nature.com/articles/s41746-022-00561-5) | [COVID19](https://github.com/JFisherLab/COVID19) |
