@@ -10,6 +10,7 @@ Throughout my career, I have been keen to share my knowledge and expertise with 
 
 | ⚡ Published Project | 📰 Paper | 💾 Code/Data |
 |--------|--------|--------|
+| Sparse AutoEncoder Latent Co-occurrence | [Compositionality and Ambiguity: Latent Co-occurrence and Interpretable Subspaces](https://www.lesswrong.com/posts/WNoqEivcCSg8gJe5h/compositionality-and-ambiguity-latent-co-occurrence-and) | [App](https://feature-cooccurrence.streamlit.app/), [Code](https://github.com/MClarke1991/sae_cooccurrence) |
 | Order of mutations in evolution | [Using State Space Exploration to Determine How Gene Regulatory Networks Constrain Mutation Order in Cancer Evolution](https://core.ac.uk/download/pdf/226940882.pdf) | [MutationOrder](https://www.github.com/jfisherlab/mutationorder) |
 | Combination Treatments for COVID-19 | [Executable network of SARS-CoV-2-host interaction predicts drug combination treatments](https://www.nature.com/articles/s41746-022-00561-5) | [COVID19](https://github.com/JFisherLab/COVID19) |
 | Combination Treatment for Myc-driven breast cancer | [Heterogeneity of Myc expression in breast cancer exposes pharmacological vulnerabilities revealed through executable mechanistic modeling](https://www.pnas.org/doi/epdf/10.1073/pnas.1903485116) | [HeterogeneousBreastCancer](http://www3.bioc.cam.ac.uk/fisher/) |
