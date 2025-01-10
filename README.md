@@ -16,6 +16,7 @@ Throughout my career, I have been keen to share my knowledge and expertise with 
 | Combination Treatment for Myc-driven breast cancer | [Heterogeneity of Myc expression in breast cancer exposes pharmacological vulnerabilities revealed through executable mechanistic modeling](https://www.pnas.org/doi/epdf/10.1073/pnas.1903485116) | [HeterogeneousBreastCancer](http://www3.bioc.cam.ac.uk/fisher/) |
 | Melanoma Immunotherapy | [Localized immune surveillance of primary melanoma in the skin deciphered through executable modeling](https://www.science.org/doi/epdf/10.1126/sciadv.add1992) | [Melanoma](https://github.com/JFisherLab/Melanoma-LC) |
 | Blood Cancer Evolution | [HOXA9 has the hallmarks of a biological switch with implications in blood cancers](https://www.nature.com/articles/s41467-022-33189-w.pdf) | [Analysis](https://doi.org/10.5281/zenodo.6913664) & [Data](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-33189-w/MediaObjects/41467_2022_33189_MOESM5_ESM.xlsx) | 
+| Lung Cancer Radiotherapy | [Predicting Personalised Therapeutic Combinations in Non-Small Cell Lung Cancer Using In Silico Modelling](https://www.biorxiv.org/content/10.1101/2025.01.07.631497v1) | Upon peer-reviewed publication |
 |Executable Modelling Review|[Executable cancer models: successes and challenges](https://www.nature.com/articles/s41568-020-0258-x.pdf)| NA|
 |Views on AML|[Prognostic hallmarks in AML](https://www.nature.com/articles/s41551-019-0474-4.pdf)|NA|
 
