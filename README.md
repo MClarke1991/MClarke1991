@@ -1,8 +1,6 @@
-My current research focuses on the mechanistic interpretability of machine learning, specifically using sparse autoencoders. This work combines my interests in computational modeling and complex systems, now applied to understanding the inner workings of AI.
+My current research focuses on understanding and predicting the safety and security of AI systems, applying my prior experience in mechanistic interpretability of both biological and computational networks. 
 
 Previously, I was a postdoc at the Cancer Institute at University College London, where I combined biology and computer science to predict cancer evolution and plan treatment programs to avert or overcome resistance. I completed my PhD at the University of Cambridge, exploring how computational network models could be used to find more effective combination treatments for breast cancer. As a postdoc at the Fisher Lab in the UCL Cancer Institute, I built upon this work to predict resistance mechanisms to radiotherapy and find the most effective patient-specific treatments.
-
-Throughout my career, I have been keen to share my knowledge and expertise with others. As a mentor to postdocs, PhD students, Masters students, and undergraduates, I take pride in helping to guide and inspire the next generation of scientists. I look forward to continuing this mentorship in my new role, now focusing on the exciting field of AI interpretability.
 
 [💻 My website](https://mclarke1991.github.io) | [💼 My LinkedIn](https://www.linkedin.com/in/matthew-alan-clarke/) | [⚡ My Projects](https://mclarke1991.github.io/#projects) | [📰 My Papers](https://mclarke1991.github.io/#featured) | [💬 My Talks](https://mclarke1991.github.io/#talks) | [✉️ Get in touch](https://mclarke1991.github.io/#contact) 
 <br/><br/>
