@@ -8,6 +8,7 @@ Previously, I was a postdoc at the Cancer Institute at University College London
 
 | ⚡ Published Project | 📰 Paper | 💾 Code/Data |
 |--------|--------|--------|
+| Pretraining Data Filtering in Protein Language Models | [The Effectiveness and Durability of Pretraining Data Filtering in Protein Language Models](https://arxiv.org/pdf/2610.26651) | NA |
 | Sparse AutoEncoder Latent Co-occurrence | [Compositionality and Ambiguity: Latent Co-occurrence and Interpretable Subspaces](https://www.lesswrong.com/posts/WNoqEivcCSg8gJe5h/compositionality-and-ambiguity-latent-co-occurrence-and) | [App](https://feature-cooccurrence.streamlit.app/), [Code](https://github.com/MClarke1991/sae_cooccurrence) |
 | Graph Neural Network Pathway Model Generation | [MAGELLAN: Automated Generation of Interpretable Computational Models for Biological Reasoning](https://www.biorxiv.org/content/10.1101/2025.05.16.653408v1) | [Code](https://github.com/jfisher-lab/MAGELLAN) |
 | Order of mutations in evolution | [Using State Space Exploration to Determine How Gene Regulatory Networks Constrain Mutation Order in Cancer Evolution](https://core.ac.uk/download/pdf/226940882.pdf) | [Code](https://www.github.com/jfisherlab/mutationorder) |
@@ -17,6 +18,7 @@ Previously, I was a postdoc at the Cancer Institute at University College London
 | Melanoma Immunotherapy | [Localized immune surveillance of primary melanoma in the skin deciphered through executable modeling](https://www.science.org/doi/epdf/10.1126/sciadv.add1992) | [Model](https://github.com/JFisherLab/Melanoma-LC), [Code](https://github.com/MClarke1991/NANSEN) |
 | Blood Cancer Evolution | [HOXA9 has the hallmarks of a biological switch with implications in blood cancers](https://www.nature.com/articles/s41467-022-33189-w.pdf) | [Model](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-33189-w/MediaObjects/41467_2022_33189_MOESM5_ESM.xlsx), [Code](https://doi.org/10.5281/zenodo.6913664) | 
 | Lung Cancer Radiotherapy | [Virtual Tumors Enable Prediction of Personalized Therapeutic Combinations for Non-Small Cell Lung Cancer](https://doi.org/10.1158/0008-5472.CAN-25-2476) | [Code](https://github.com/jfisher-lab/NSCLC) |
+| Predicting Effective Treatments in Clinical Trials | [Tumor digital twins uncover therapeutic strategies in triple-negative breast cancer](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00536-7) | [Code](https://github.com/jfisher-lab/TNBC_Victori2026) | 
 | BMA Network Analysis and Screening | [NANSEN: (Network Analysis aNd ScrEeNing)](https://github.com/MClarke1991/NANSEN) | [Code](https://github.com/MClarke1991/NANSEN) |
 |Executable Modelling Review|[Executable cancer models: successes and challenges](https://www.nature.com/articles/s41568-020-0258-x.pdf)| NA|
 |Views on AML|[Prognostic hallmarks in AML](https://www.nature.com/articles/s41551-019-0474-4.pdf)|NA|
